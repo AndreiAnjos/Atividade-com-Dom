@@ -1,0 +1,13 @@
+/* estlozação da tag h2 */
+h2{ 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+}
+p{
+    font-size: larger;
+}
